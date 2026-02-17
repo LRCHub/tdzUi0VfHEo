@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "とまれみよ - Stop Look Both Ways - Tomaremiyo - Stop Look Both Ways",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2026-02-17T14:11:26.787983Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "とまれみよ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/01_とまれみよ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "とまれみよ",
+      "artist": "Yonezu, Kenshi",
+      "has_synced": true,
+      "path": "select/02_とまれみよ_Yonezu,_Kenshi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "とまれみよ - Stop Look Both Ways - Tomaremiyo - Stop Look Both Ways",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/03_とまれみよ_-_Stop_Look_Both_Ways_-_Tomaremiyo_-_Stop_Look_Both_Ways_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "とまれみよ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/04_とまれみよ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "とまれみよ - Stop Look Both Ways",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_とまれみよ_-_Stop_Look_Both_Ways_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "とまれみよ - Stop Look Both Ways",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/06_とまれみよ_-_Stop_Look_Both_Ways_米津玄師.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "とまれみよ",
+      "artist": "米津玄師",
+      "has_synced": false,
+      "path": "select/pl_01_とまれみよ_米津玄師.txt"
+    }
+  ]
+}
